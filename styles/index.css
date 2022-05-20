@@ -1,0 +1,51 @@
+section {
+    height: 800px;
+}
+
+section img {
+    height: 150px;
+    width: 150px;
+}
+
+section form {
+    height: 380px;
+    background-image: url('https://media-cdn.tripadvisor.com/media/photo-o/14/10/2e/af/india.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 450px;
+}
+
+form input {
+    width: 400px;
+    border: 1px solid white;
+    background-color: #f1f1f1;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 12px;
+}
+
+.hotel {
+    display: flex;
+    justify-content: center;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.card {
+    padding: 4%;
+}
+
+.viewMore {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: black;
+}
+
+.card img {
+    border-radius: 25px;
+}

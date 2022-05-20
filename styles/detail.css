@@ -1,0 +1,18 @@
+section img {
+    height: 500px;
+    width: 500px;
+    margin: 2% 4% 0% 4%;
+}
+
+form {
+    margin: 0% 4% 1% 4%;
+}
+
+.description {
+    margin: 1% 4% 2% 4%;
+}
+
+section {
+    margin-top: 6%;
+    margin-bottom: 6%;
+}
